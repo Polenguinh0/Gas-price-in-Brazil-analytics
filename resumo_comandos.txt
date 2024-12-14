@@ -1,0 +1,20 @@
+---COMANDOS GIT--
+git clone --> Clona o repositório (git clone 'link do Https do repositório')
+git add . --> Adiciona todos os arquivos na área de stage
+git add 'nome do arquivo' --> Adiciona apenas um arquivo específico
+git commit -m 'mensagem' --> Cria um ponto de restauro com uma mensagem e deixa os arquivos prontos para o push
+git config --lis --> Mostra a configuração
+gitk --> Abre uma interface com resumo de tudo que ocorreu no repositório
+git push origin main --> Envia os arquivos para o repositório
+git pull origin main --> Envia do repositório para a máquina
+
+
+--COMANDOS WINDOWS E LINUX--
+
+cd 'nome da pasta' --> 'abre' a pasta especificada
+cd .. --> Retorna para o caminho anterior
+ls --> lista o que tem na pasta atual
+pwd --> mostra o caminho atual
+Ctrl + L --> Limpa o terminal
+ls -a --> lista arquivos ocultos
+Ctrl + C --> cancela o que está sendo executado
